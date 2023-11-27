@@ -3,7 +3,7 @@ function Niko() {
 }
 
 function Thomas() {
-  return <div>Thomas "TDC" Christensen</div>
+  return <div>Thomas</div>
 }
 
 export default function Home() {
