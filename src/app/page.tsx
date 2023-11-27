@@ -5,6 +5,8 @@ function Niko() {
 function Anj() {
   return <div>Hr. Jensen er awsome. Nyt batteri tak!!!</div>
 
+function Thomas() {
+  return <div>Thomas</div>
 }
 
 function Lars() {
@@ -26,6 +28,8 @@ export default function Home() {
 
       <Anj />
       
+
+      <Thomas />
       <Lars />
     </main>
   )
