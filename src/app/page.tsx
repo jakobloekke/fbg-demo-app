@@ -6,6 +6,10 @@ function Thomas() {
   return <div>Thomas</div>
 }
 
+function Lars() {
+  return <div>Lars er her</div>
+}
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
@@ -17,9 +21,9 @@ export default function Home() {
       <Niko />
       <Niko />
       <Niko />
-      <Niko />
 
       <Thomas />
+      <Lars />
     </main>
   )
 }
