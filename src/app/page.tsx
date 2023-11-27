@@ -2,6 +2,10 @@ function Niko() {
   return <div className="text-niko">Brok</div>
 }
 
+function Thomas() {
+  return <div>Thomas</div>
+}
+
 function Lars() {
   return <div>Lars er her</div>
 }
@@ -17,7 +21,8 @@ export default function Home() {
       <Niko />
       <Niko />
       <Niko />
-      
+
+      <Thomas />
       <Lars />
     </main>
   )
