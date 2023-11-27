@@ -2,6 +2,10 @@ function Niko() {
   return <div className="text-niko">Brok</div>
 }
 
+function Anj() {
+  return <div>Hr. Jensen er awsome. Nyt batteri tak!!!</div>
+}
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
@@ -14,6 +18,8 @@ export default function Home() {
       <Niko />
       <Niko />
       <Niko />
+
+      <Anj />
     </main>
   )
 }
