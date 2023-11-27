@@ -3,11 +3,11 @@ function Niko() {
 }
 
 function Thomas() {
-  return <div>Thomas</div>
+  return <div className="text-thomas">Thomas was here</div>
 }
 
 function Lars() {
-  return <div>Lars er her</div>
+  return <div className="text-lars">Lars er her</div>
 }
 
 export default function Home() {

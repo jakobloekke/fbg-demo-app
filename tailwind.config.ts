@@ -15,7 +15,9 @@ const config: Config = {
       }
     },
     colors: {
-      niko: '#00000a'
+      niko: '#00000a',
+      thomas: '#cccccc',
+      lars: '#0000ff'
     }
   },
   plugins: [],
