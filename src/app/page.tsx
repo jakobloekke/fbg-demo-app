@@ -30,6 +30,8 @@ export default function Home() {
       <Thomas />
       <Lars />
       <Anj />
+
+      <p>Hejsa</p>
     </main>
   )
 }
