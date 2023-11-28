@@ -2,6 +2,14 @@ function Niko() {
   return <div className="text-niko">Brok</div>
 }
 
+function Thomas() {
+  return <div>Thomas</div>
+}
+
+function Lars() {
+  return <div>Lars er her</div>
+}
+
 function Anj() {
   return <div>Hr. Jensen er awsome. Nyt batteri tak!!!</div>
 }
@@ -18,8 +26,6 @@ export default function Home() {
       <Niko />
       <Niko />
       <Niko />
-
-      <Anj />
     </main>
   )
 }
