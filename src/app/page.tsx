@@ -26,6 +26,10 @@ export default function Home() {
       <Niko />
       <Niko />
       <Niko />
+
+      <Thomas />
+      <Lars />
+      <Anj />
     </main>
   )
 }
